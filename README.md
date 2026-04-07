@@ -26,7 +26,7 @@ This project analyzes NIFTY 50 stock data using Python to identify trends, volat
 
 ## 📊 Visualization
 
-![Stock Trend](nifty_chart.png)
+![Stock Trend](image/nifty_chart.png)
 
 ## 💡 Key Insights
 - Downtrend observed in recent period
