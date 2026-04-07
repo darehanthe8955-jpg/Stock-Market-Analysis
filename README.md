@@ -29,7 +29,7 @@ This project analyzes NIFTY 50 stock data using Python to identify trends, volat
 ![Stock Trend](image/nifty_chart.png)
 
 ## 🤖 Random Forest Prediction
-![Prediction](image/Random forest_prediciton_chart.png)
+![Prediction](image/Random_forest_prediciton_chart.png)
 
 
 ## 💡 Key Insights
